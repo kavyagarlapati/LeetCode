@@ -21,7 +21,7 @@ This is a learning-in-progress repository focused on consistency and understandi
 
 ---
 
-## 📂 Current Structure
+## 📂 Folder Structure
 
 ├── Python/
 │ ├── problem_name.py
